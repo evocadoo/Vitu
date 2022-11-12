@@ -28,25 +28,25 @@ text-align: justify;
 }
 #volkswagen{
     color: aliceblue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
     font-size: 45;
     text-align: center;
 }
 #bmw{
     color: aliceblue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
     font-size: 45;
     text-align: center;
 }
 #lamborghini{
     color: aliceblue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
     font-size: 45;
     text-align: center;
 }
 #ferrari{
     color: aliceblue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
     font-size: 45;
     text-align: center;
 }
