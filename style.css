@@ -8,6 +8,9 @@ font-family:Georgia, 'Times New Roman', Times, serif ;
 background:black ;
 text-align: center;
 }
+#logo{
+    width: 100%;
+}
 p{
 color:orangered ;
 font-family:Arial, Helvetica, sans-serif ;
