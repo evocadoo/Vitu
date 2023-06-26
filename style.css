@@ -14,25 +14,30 @@ text-align: center;
 }
 #jetta{
     width: 10%;
+    text-align: center;
 }
 #space{
     width: 10%;
+    text-align: center;
 }
 #touareg{
     width: 10%;
+    text-align: center;
 }
 #i{
     width: 10%;
+    text-align: center;
 }
 #xbm{
     width: 10%;
+    text-align: center;
 }
 p{
 color:orangered ;
 font-family:Arial, Helvetica, sans-serif ;
 font-size: 25px;
 background:black ;
-text-align: justify;
+text-align: center;
 }
 #criadorpor{
     color:black;
